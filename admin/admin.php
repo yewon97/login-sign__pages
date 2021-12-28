@@ -1,6 +1,5 @@
 <?php
 include "inc/admin_session.php";
-    
 ?>
 <!DOCTYPE html>
 <html lang="ko">

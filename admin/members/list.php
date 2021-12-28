@@ -61,7 +61,7 @@ if($e_pageNum > $total_page){
         body{font-size:16px}
         a{text-decoration:none;color:rgb(0, 132, 255)}
         a:hover{color:rgb(255, 153, 0)}
-        table{width:1328px;border-collapse:collapse}
+        table{width:100%;border-collapse:collapse;}
         td{padding:10px 15px;text-align:center}
         .title{border-top:3px solid #999;border-bottom:2px solid #999;background:#eee;font-weight:bold}
         .brd{border-bottom:1px solid #999}
